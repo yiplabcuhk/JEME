@@ -1,0 +1,7 @@
+This package provides the programs for producing the 935 enhancer-target networks described in the manuscript. The readme files provide the following information:
+1_readme_platform.txt: Operating systems and software requirements
+2_readme_input_files.txt: Formats of input data files
+3_readme_FANTOM5_part1.txt: Steps for performing Part 1 of JEME for reconstructing the FANTOM5 networks
+4_readme_FANTOM5_part2.txt: Steps for performing Part 2 of JEME for reconstructing the FANTOM5 networks
+5_readme_ENCODERoadmap_part1.txt: Steps for performing Part 1 of JEME for reconstructing the ENCODE+Roadmap networks
+6_readme_ENCODERoadmap_part2.txt: Steps for performing Part 2 of JEME for reconstructing the ENCODE+Roadmap networks
